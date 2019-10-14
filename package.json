@@ -1,5 +1,5 @@
 {
-  "name": "vue-employee-query",
+  "name": "vue-employee-query-crane0",
   "version": "1.0.1",
   "description": "",
   "main": "./dist/employee-query.js",
@@ -11,7 +11,7 @@
     "TypeScript",
     "Vue"
   ],
-  "author": "liangxiao",
+  "author": "crane0",
   "license": "ISC",
   "dependencies": {
     "vue": "^2.6.10",
